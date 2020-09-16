@@ -11,6 +11,7 @@
 * `HTML5` _(Good)_
 * `CSS#` _(Good)_
 * `JS` _(Basic)_
+* `Node.js, Angular` _(Hear about it)_
 
 ## Code examples
 ```
