@@ -1,5 +1,8 @@
 # Kuzherbayev Noyan
 ## Contact Info
+* Kazakhstan, Aktobe
+* [E-mail](mailto:noyan.ku@gmail.com)
+* [Telegram](https://t.me/noyan_ku)
 
 ## Summary
  I wish to become a Front-end web Dev.
